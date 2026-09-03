@@ -10,7 +10,7 @@
 <div>
 
 <img loading = "lazy" heigth = "40px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <h5>And using this techonologies: </h5>
+  <h5>And using this technologies: </h5>
   <img heigth = "40px" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img loading = "lazy" heigth = "40px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
